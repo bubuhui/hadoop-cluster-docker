@@ -10,6 +10,7 @@ Quickly build arbitrary size Hadoop Cluster based on Docker
 4. Steps to build an arbitrary size Hadoop Cluster
 ```
 
+
 ##1. Project Introduction
 
 The objective of this project is to help Hadoop developer to quickly build an arbitrary size Hadoop cluster on their local host. This is achieved by using [Docker](https://www.docker.com/). 
